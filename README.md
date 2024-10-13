@@ -2,3 +2,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)
+![](https://stats.justsong.cn/api/leetcode?username=林宝LB&cn=true)
